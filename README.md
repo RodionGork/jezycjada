@@ -1,0 +1,1 @@
+Translation attempt of "Jezycjada" cycle by M.Musierowicz into Russian.
