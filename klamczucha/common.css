@@ -3,6 +3,7 @@ body {
   font-family: Arial,sans;
   max-width: 960px;
   margin: 0px auto;
+  line-height: 1.3em;
 }
 em {
   color: #888;
