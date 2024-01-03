@@ -13,5 +13,5 @@ img {
 }
 
 @media (max-width: 900px) {
-  body { font-size: 120%; }
+  body { font-size: 120%; padding: 0px 2px; }
 }
